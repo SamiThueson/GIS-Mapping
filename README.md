@@ -6,9 +6,8 @@ I began writing the software in the script.js file in order to practice and unde
 
 In order to display the map you will need to replace the api key with your own from the ArcGIS website. To run the code go to the html file and in the right hand corner press the Go Live button.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/EtF4UsOIFu8)
+(The map had trouble loading so if you would like to skip 3:35-3:53 and 4:56-5:19 you will get through the video much faster.)
 
 # Development Environment
 
